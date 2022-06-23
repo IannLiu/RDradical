@@ -9,6 +9,3 @@ An RDKit Wrapper for Handling Radical Reaction Template Extraction and Applicati
 * python
 * numpy
 * rdkit
-
-## Demos
-Feel free to check in the 
